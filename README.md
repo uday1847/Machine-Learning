@@ -75,7 +75,7 @@ Test Accuracy: 0.95
 
 Test loss:0.2154, Test accuracy:0.9523
 
-
+ 
 Sample Inference Result
 
 When a new image is provided to the trained model, it outputs the predicted class along with a confidence score. This example shows a test on an image of a police officer.
